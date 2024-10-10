@@ -2,8 +2,6 @@
     {
         "url": "https://static.wikia.nocookie.net/standoff-2/images/8/80/G22_Desert_Camouflage.PNG/revision/latest?cb=20180812145713",
         "title": "G22 Desert Camouflage"
-
-"
     },
  {
         "url": "https://static.wikia.nocookie.net/standoff-2/images/e/e8/M4_Tiger.PNG/revision/latest?cb=20180812150150",
